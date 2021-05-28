@@ -1,10 +1,6 @@
-<!DOCTYPE html>
-<html>
-<body>
 
-<h1>  Reading-notes 
-</h1>
-<h1> nemeh abuzitoun  </h1>    
+ # Reading-notes 
+ ## nemeh abuzitoun 
 
 
 
@@ -36,14 +32,8 @@
  
  
  
- 
 
 - [html-structure](https://nemeh-abuzitoun.github.io/html-structure/)  
 
 
 
-
-
-
-</body>
-</html>
