@@ -1,7 +1,28 @@
-# Reading-notes
-## nemeh abuzitoun
+<!DOCTYPE html>
+<html>
+<body>
 
-### nemeh abuzitoun studied computer engineering at BAU class 2012 from jordan . A+ , CCNa courses , private maths teacher , intrested in psycology
+<h1>  Reading-notes 
+</h1>
+<h1> nemeh abuzitoun  </h1>    
+
+
+
+
+ style="background-color:Tomato;" 
+ nemeh abuzitoun studied computer engineering at BAU class 2012 from jordan . A+ , CCNa courses , private maths teacher , intrested in psycology
+
+
+
+
+
+
+<img src="https://image.shutterstock.com/image-photo/school-notebook-glasses-coffee-on-600w-462846523.jpg" alt="Italian Trulli">
+
+
+
+
+
 
 
 
@@ -15,3 +36,9 @@
 - [html-structure](https://nemeh-abuzitoun.github.io/html-structure/)  
 
 
+
+
+
+
+</body>
+</html>
