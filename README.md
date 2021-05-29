@@ -4,6 +4,7 @@
 ### nemeh abuzitoun studied computer engineering at BAU class 2012 from jordan . A+ , CCNa courses , private maths teacher , intrested in psycology
 
 
+![alt text](https://miro.medium.com/max/9184/1*X-PcJwUAsYc84z7Z5MIT-Q.jpeg)
 
 ###  **Table of Contents**
 [Growth-mindset ]( https://nemeh-abuzitoun.github.io/Growth-mindset/)  
