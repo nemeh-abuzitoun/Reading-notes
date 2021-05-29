@@ -1,39 +1,36 @@
+<!DOCTYPE html>
+<html>
+<body>
 
- # Reading-notes 
- ## nemeh abuzitoun 
-
-
-
-
+<h2>Reading-notes</h2>
+ <h2>  nemeh abuzitoun
 
  nemeh abuzitoun studied computer engineering at BAU class 2012 from jordan . A+ , CCNa courses , private maths teacher , intrested in psycology
+</h2>
+<img src="https://images.unsplash.com/photo-1483546416237-76fd26bbcdd1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80" alt="W3Schools.com" width="104" height="142">
+<p>  Table of Contents 
+</p>
+
+<ul>
+  <li><a href="https://nemeh-abuzitoun.github.io/Growth-mindset/">Growth-mindset</a>
+</li>
+  <li>
+
+<a href="https://nemeh-abuzitoun.github.io/Markdown-github-/">Markdown-github-</a>
+</a>
+</li>
+  <li>
+
+<a href="https://nemeh-abuzitoun.github.io/-revision-and-the-cloud-Git-/">-revision-and-the-cloud-Git-</a>
+</li>
+<li>
+<a href="https://nemeh-abuzitoun.github.io/html-structure/">html-structure</a>
+</li>
+</ul>  
 
 
 
-
-
-
-<img src="https://image.shutterstock.com/image-photo/school-notebook-glasses-coffee-on-600w-462846523.jpg" alt="Italian Trulli">
-
-
-
-
-
-
-
-
-###  **Table of Contents**
  
-- [Growth-mindset ]( https://nemeh-abuzitoun.github.io/Growth-mindset/)  
 
-- [Markdown-github-](https://nemeh-abuzitoun.github.io/Markdown-github-/) 
- 
-- [-revision-and-the-cloud-Git-](https://nemeh-abuzitoun.github.io/-revision-and-the-cloud-Git-/)
- 
- 
- 
-
-- [html-structure](https://nemeh-abuzitoun.github.io/html-structure/)  
-
-
-
+</body>
+</html>
