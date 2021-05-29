@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <body>
 
@@ -17,7 +17,7 @@
   <li>
 
 <a href="https://nemeh-abuzitoun.github.io/Markdown-github-/">Markdown-github-</a>
-</a>
+
 </li>
   <li>
 
