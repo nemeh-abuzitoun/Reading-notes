@@ -16,3 +16,7 @@
 * [html-structure](https://nemeh-abuzitoun.github.io/html-structure/)  
 
 * [Dynamic-web-pages-with-JavaScript](https://nemeh-abuzitoun.github.io/Dynamic-web-pages-with-JavaScript//)
+
+* [Dynamic-web-pages-with-JavaScript](https://nemeh-abuzitoun.github.io/Dynamic-web-pages-with-JavaScript//)
+
+* [Operators-and-Loops-](https://nemeh-abuzitoun.github.io/Operators-and-Loops-//)
