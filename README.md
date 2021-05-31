@@ -19,3 +19,9 @@
 
 
 * [Operators-and-Loops-](https://nemeh-abuzitoun.github.io/Operators-and-Loops-//)
+
+
+* [06b---Design-web-pages-with-CSS](https://nemeh-abuzitoun.github.io/06b---Design-web-pages-with-CSS///)
+
+
+* [-06---Programming-with-JavaScript](https://nemeh-abuzitoun.github.io/-06---Programming-with-JavaScript///)
