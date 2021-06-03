@@ -7,6 +7,7 @@
 ![alt text](https://miro.medium.com/max/9184/1*X-PcJwUAsYc84z7Z5MIT-Q.jpeg)
 
 ###  **Table of Contents**
+# Code 102 Reading Notes
 * [Growth-mindset ]( https://nemeh-abuzitoun.github.io/Growth-mindset/)  
 
 * [Markdown-github-](https://nemeh-abuzitoun.github.io/Markdown-github-/) 
@@ -25,3 +26,4 @@
 
 
 * [-06---Programming-with-JavaScript](https://nemeh-abuzitoun.github.io/-06---Programming-with-JavaScript///)
+# Code 201 Reading Notes
