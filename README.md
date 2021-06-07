@@ -30,3 +30,4 @@
 * [Markdown-on-GitHub-Getting-Started-with-GitHub-Pages](https://nemeh-abuzitoun.github.io/Markdown-on-GitHub-Getting-Started-with-GitHub-Pages/)
 
 * [ class-01.md](https://nemeh-abuzitoun.github.io/class-01.md//)
+* [ class-02.md]( https://nemeh-abuzitoun.github.io/class-02.md/)
