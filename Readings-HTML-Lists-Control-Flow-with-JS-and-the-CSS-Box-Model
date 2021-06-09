@@ -1,0 +1,294 @@
+Read-04—HTML-Links-CSS-Layout-JS-Functions
+HTML Links
+Links are found in nearly all web pages. Links allow users to click their way from page to page.
+
+HTML Links - Hyperlinks HTML links are hyperlinks.
+
+You can click on a link and jump to another document.
+
+When you move the mouse over a link, the mouse arrow will turn into a little hand.
+
+Note: A link does not have to be text. A link can be an image or any other HTML element!
+
+HTML Links - Syntax The HTML tag defines a hyperlink. It has the following syntax:
+
+link text The most important attribute of the element is the href attribute, which indicates the link’s destination.
+
+The link text is the part that will be visible to the reader.
+
+Clicking on the link text, will send the reader to the specified URL address.
+
+Example This example shows how to create a link to W3Schools.com:
+
+Visit W3Schools.com!
+
+CSS Layout
+Hello W3.CSS Layout.
+
+Hello W3.CSS Layout.
+
+Hello W3.CSS Layout.
+
+Hello W3.CSS Layout.
+
+Hello W3.CSS Layout.
+
+Hello W3.CSS Layout.
+
+W3.CSS Layout Classes W3.CSS version 2.90 / 2.91 introduced the following classes for “column-like” layout:
+
+Class Description w3-cell-row Container for cells (columns). w3-cell Layout cell (column). w3-cell-top Aligns content at the top of a cell (column). w3-cell-middle Aligns content at the vertical middle of a cell (column). w3-cell-bottom Aligns content at the bottom of a cell (column). w3-mobile Adds mobile-first responsiveness to a cell (column). Displays elements as block elements on mobile devices. The layout classes replace deprecated layout classes.
+
+The new layout classer are more versatile and easier to use.
+
+The deprecated layout classes are listed at the bottom of this page.
+
+HTML Block Elements Originally, HTML block elements (like <div> elements) display as vertical blocks:
+
+Hello W3.CSS Layout.
+
+Hello W3.CSS Layout.
+
+Example
+
+Hello W3.CSS Layout.
+
+Hello W3.CSS Layout.
+
+ADVERTISEMENT Layout Cells The w3-cell class redefines block elements to display horizontally (like table cells):
+
+Hello W3.CSS Layout.
+
+Hello W3.CSS Layout.
+
+Example
+
+Hello W3.CSS Layout.
+
+Hello W3.CSS Layout.
+
+Layout Container The w3-cell-row is a container for cells (columns).
+
+The width of the w3-cell-row container defines the total width of all the contained cells.
+
+The default width is 100%:
+
+Hello W3.CSS Layout.
+
+Hello W3.CSS Layout.
+
+Example
+
+Hello W3.CSS Layout.
+
+Hello W3.CSS Layout.
+
+If you change the width of the cell container, it will reduce the total width of the contained cells:
+
+Hello W3.CSS Layout.
+
+Hello W3.CSS Layout.
+
+Example
+
+Hello W3.CSS Layout.
+
+Hello W3.CSS Layout.
+
+Layout Cells are Self Adjusting The w3-cell class has a very nice built-in self adjusting standard. Side-by-side elements will automatically adjust to the necessary width:
+
+Hello W3.CSS Layout.
+
+Hello W3.CSS Layout. Hello W3.CSS Layout.
+
+Example
+
+Hello W3.CSS Layout.
+
+Hello W3.CSS Layout. Hello W3.CSS Layout.
+
+Layout Cells Adjust to Equal Height Side-by-side w3-cell elements will also automatically self-adjust to equal height:
+
+Hello W3.CSS Layout.
+
+Hello W3.CSS Layout.
+
+Hello W3.CSS Layout.
+
+Hello W3.CSS Layout.
+
+Hello W3.CSS Layout.
+
+Example
+
+Hello W3.CSS Layout.
+
+Hello W3.CSS Layout.
+
+Hello W3.CSS Layout.
+
+Hello W3.CSS Layout.
+
+Hello W3.CSS Layout.
+
+Responsive Layout The w3-mobile class adds mobile first responsiveness to any HTML element.
+
+Used together with w3-cell it will display the layout columns vertically on small screens/mobile phones and horizontally on medium/large screens.
+
+On medium and large screens:
+
+Hello W3.CSS Layout.
+
+Hello W3.CSS Layout.
+
+Hello W3.CSS Layout.
+
+On small screens:
+
+Hello W3.CSS Layout.
+
+Hello W3.CSS Layout.
+
+Hello W3.CSS Layout.
+
+Example
+
+Hello W3.CSS Layout.
+
+Hello W3.CSS Layout.
+
+Hello W3.CSS Layout.
+
+Easy Alignment The w3-cell class makes it very easy to align text.
+
+There are 3 different alignment classes:
+
+w3-cell-top (default) w3-cell-middle w3-cell-bottom
+
+Hello W3.CSS Layout.
+
+Hello W3.CSS Layout.
+
+Hello W3.CSS Layout.
+
+Hello W3.CSS Layout.
+
+Hello W3.CSS Layout.
+
+Hello W3.CSS Layout.
+
+Example
+
+Hello W3.CSS Layout.
+
+Hello W3.CSS Layout.
+
+Hello W3.CSS Layout.
+
+Hello W3.CSS Layout.
+
+Hello W3.CSS Layout.
+
+Hello W3.CSS Layout.
+
+The w3-cell-row class stretches the elements to fit the page width:
+
+Hello W3.CSS Layout.
+
+Hello W3.CSS Layout.
+
+Hello W3.CSS Layout.
+
+Hello W3.CSS Layout.
+
+Hello W3.CSS Layout.
+
+Hello W3.CSS Layout.
+
+Example
+
+Hello W3.CSS Layout.
+
+Hello W3.CSS Layout.
+
+Hello W3.CSS Layout.
+
+Hello W3.CSS Layout.
+
+Hello W3.CSS Layout.
+
+Hello W3.CSS Layout.
+
+Deprecated W3.CSS Table Layout Classes w3-layout-container Use w3-cell-row instead. w3-layout-row w3-layout-cell Use w3-cell instead. w3-layout-top Use w3-cell-top instead. w3-layout-middle Use w3-cell-middle instead. w3-layout-bottom Use w3-cell-bottom instead. w3-layout-col Use w3-mobile instead.
+
+# JavaScript Functions
+
+A JavaScript function is a block of code designed to perform a particular task.
+
+A JavaScript function is executed when “something” invokes it (calls it).
+
+Example function myFunction(p1, p2) { return p1 * p2; // The function returns the product of p1 and p2 } JavaScript Function Syntax A JavaScript function is defined with the function keyword, followed by a name, followed by parentheses ().
+
+Function names can contain letters, digits, underscores, and dollar signs (same rules as variables).
+
+The parentheses may include parameter names separated by commas: (parameter1, parameter2, …)
+
+The code to be executed, by the function, is placed inside curly brackets: {}
+
+function name(parameter1, parameter2, parameter3) { // code to be executed } Function parameters are listed inside the parentheses () in the function definition.
+
+Function arguments are the values received by the function when it is invoked.
+
+Inside the function, the arguments (the parameters) behave as local variables.
+
+A Function is much the same as a Procedure or a Subroutine, in other programming languages.
+
+Function Invocation The code inside the function will execute when “something” invokes (calls) the function:
+
+When an event occurs (when a user clicks a button) When it is invoked (called) from JavaScript code Automatically (self invoked) You will learn a lot more about function invocation later in this tutorial.
+
+Function Return When JavaScript reaches a return statement, the function will stop executing.
+
+If the function was invoked from a statement, JavaScript will “return” to execute the code after the invoking statement.
+
+Functions often compute a return value. The return value is “returned” back to the “caller”:
+
+Example Calculate the product of two numbers, and return the result:
+
+var x = myFunction(4, 3); // Function is called, return value will end up in x
+
+function myFunction(a, b) { return a * b; // Function returns the product of a and b } The result in x will be:
+
+12 Why Functions? You can reuse code: Define the code once, and use it many times.
+
+You can use the same code many times with different arguments, to produce different results.
+
+Example Convert Fahrenheit to Celsius:
+
+function toCelsius(fahrenheit) { return (5/9) * (fahrenheit-32); } document.getElementById(“demo”).innerHTML = toCelsius(77); The () Operator Invokes the Function Using the example above, toCelsius refers to the function object, and toCelsius() refers to the function result.
+
+Accessing a function without () will return the function object instead of the function result.
+
+Example function toCelsius(fahrenheit) { return (5/9) * (fahrenheit-32); } document.getElementById(“demo”).innerHTML = toCelsius; Functions Used as Variable Values Functions can be used the same way as you use variables, in all types of formulas, assignments, and calculations.
+
+Example Instead of using a variable to store the return value of a function:
+
+var x = toCelsius(77); var text = “The temperature is “ + x + “ Celsius”; You can use the function directly, as a variable value:
+
+var text = “The temperature is “ + toCelsius(77) + “ Celsius”; You will learn a lot more about functions later in this tutorial.
+
+Local Variables Variables declared within a JavaScript function, become LOCAL to the function.
+
+Local variables can only be accessed from within the function.
+
+Example // code here can NOT use carName
+
+function myFunction() { var carName = “Volvo”; // code here CAN use carName }
+
+// code here can NOT use carName Since local variables are only recognized inside their functions, variables with the same name can be used in different functions.
+
+Local variables are created when a function starts, and deleted when the function is completed.
+
+Test Yourself With Exercises Exercise: Execute the function named myFunction.
+
+function myFunction() { alert(“Hello World!”); } ; https://www.w3schools.com/
